@@ -10,7 +10,7 @@ public class Calculations {
         System.out.println(n1 + " + " + n2 + " = " + (n1+n2));
         System.out.println(n1 + " - " + n2 + " = " + (n1-n2));
         System.out.println(n1 + " * " + n2 + " = " + (n1*n2));
-        System.out.println(n1 + " / " + n2 + " = " + ((double)n1/(double)n2));
+        System.out.println(n1 + " / " + n2 + " = " + ((float)n1/(float)n2));
         System.out.println(n1 + " % " + n2 + " = " + (n1%n2));
     }
 }
